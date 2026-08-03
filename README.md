@@ -6,4 +6,4 @@
 
 - 👨‍💻 All of my informations at **[https://aurele879.github.io/Portfolio/](https://aurele879.github.io/Portfolio/)**
   
-![Texte alternatif ou description](rain.gif)
+![Texte alternatif ou description](gif.gif)
