@@ -1,6 +1,8 @@
-# Hello ❕
+# Hi, my name is Aurèle ❕
 
-### A computer science student in France
+### I'm a computer science student from France
+
+#### You can find some informations here to contact me :
 
   🔻 Mail **aurele.jambert0@gmail.com**
   
