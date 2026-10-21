@@ -2,10 +2,13 @@
 
 ### I'm a computer science student from France
 
-#### You can find some informations here to contact me :
+#### You can find some information here to contact me :
 
-  📨 Mail -> **aurele.jambert0@gmail.com**
-  
-  🌍 Portfolio -> **[https://aurele879.github.io/Portfolio/](https://aurele879.github.io/Portfolio/)**
-  
-![Texte alternatif ou description](gifs/ville2.gif)
+* 📨 **Email:** [aurele.jambert0@gmail.com](mailto:aurele.jambert0@gmail.com)
+* 🌍 **Portfolio:** [aurele879.github.io/Portfolio](https://aurele879.github.io/Portfolio/)
+
+---
+
+<div align="center">
+  <img src="gifs/ville2.gif" alt="Cyberpunk City Pixel Art" width="100%" />
+</div>
