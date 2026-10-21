@@ -8,4 +8,4 @@
   
   🌍 Portfolio -> **[https://aurele879.github.io/Portfolio/](https://aurele879.github.io/Portfolio/)**
   
-![Texte alternatif ou description](gifs/ville.gif)
+![Texte alternatif ou description](gifs/ville2.gif)
