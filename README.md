@@ -11,13 +11,15 @@
 
 <img src="gifs/ville2.gif" alt="Cyberpunk City Pixel Art" width="100%" />
 
+<br/>
+
 ---
 
 ## 🛠️ Here are the tools I use
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aurele879&layout=compact&theme=monokai" alt="Top Languages" />
 
-<br/><br/>
+<br/>
 
 ### Backend & Scripting
 
