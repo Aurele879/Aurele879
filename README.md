@@ -4,7 +4,7 @@
 
 ### I'm a computer science student from France
 
-#### 📬 Get in touch
+#### 📬 Contact
 [📨 Email](mailto:aurele.jambert0@gmail.com) • [🌍 Portfolio](https://aurele879.github.io/Portfolio/)
 
 ---
