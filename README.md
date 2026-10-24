@@ -17,7 +17,7 @@
 
 ### Here are the tools I use
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurele879&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurele879&layout=compact&theme=tokyonight)
 
 #### Backend & Scripting
 <p align="left">
