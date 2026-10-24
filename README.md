@@ -17,6 +17,8 @@
 
 ### Here are the tools I use
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurele879&layout=compact&theme=radical)
+
 #### Backend & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
