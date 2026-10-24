@@ -6,9 +6,9 @@
 
 #### You can find some information here to contact me:
 
-- 📨 **Email:** [aurele.jambert0@gmail.com](mailto:aurele.jambert0@gmail.com)
+📨 **Email:** [aurele.jambert0@gmail.com](mailto:aurele.jambert0@gmail.com)
 
-- 🌍 **Portfolio:** [aurele879.github.io/Portfolio](https://aurele879.github.io/Portfolio/)
+🌍 **Portfolio:** [aurele879.github.io/Portfolio](https://aurele879.github.io/Portfolio/)
 
 
 ---
